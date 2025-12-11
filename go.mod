@@ -1,5 +1,5 @@
-module github.com/CaiJimmy/hugo-theme-stack-starter
+module github.com/goddesscameo/goddesscameo.github.io
 
-go 1.17
+go 1.25.5
 
 require github.com/CaiJimmy/hugo-theme-stack/v3 v3.32.0 // indirect
