@@ -1,0 +1,9 @@
+﻿baseURL = "https://goddesscameo.github.io/"  # <-- Correct spelling with TWO 's's
+languageCode = "en-us"
+title = "GoddessCameo - FINALLY DEPLOYED!"
+theme = ["github.com/CaiJimmy/hugo-theme-stack/v3"]
+
+[module]
+  [[module.imports]]
+    path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+    disable = false
