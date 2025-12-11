@@ -39,6 +39,11 @@ jobs:
                   hugo-version: "latest"
                   extended: true
 
+                name: Install Theme Dependencies
+                run: |
+                  hugo mod get
+                  hugo mod tidy
+
             - name: Build
               run: hugo --minify --gc
 
