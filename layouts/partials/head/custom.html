@@ -1,0 +1,38 @@
+﻿<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Wait a tiny bit to ensure theme is done
+    setTimeout(function() {
+        // Find the sidebar (adjust selector if needed)
+        var sidebar = document.querySelector('.sidebar, .widget-area, aside');
+        
+        if (sidebar) {
+            // Create avatar container
+            var avatarDiv = document.createElement('div');
+            avatarDiv.style.cssText = 'text-align: center; margin-bottom: 20px;';
+            
+            // Create the image
+            var avatarImg = document.createElement('img');
+            avatarImg.src = '/yinyang.png';
+            avatarImg.alt = 'Avatar';
+            avatarImg.style.cssText = 'width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #ccc;';
+            
+            // Assemble and insert
+            avatarDiv.appendChild(avatarImg);
+            sidebar.insertBefore(avatarDiv, sidebar.firstChild);
+            
+            console.log('✅ Avatar injected successfully!');
+        } else {
+            console.warn('⚠️ Sidebar not found. Trying alternative location...');
+            // Alternative: try to find the about section
+            var aboutSection = document.querySelector('.sidebar-about, .widget-about');
+            if (aboutSection) {
+                var avatarImg = document.createElement('img');
+                avatarImg.src = '/yinyang.png';
+                avatarImg.alt = 'Avatar';
+                avatarImg.style.cssText = 'width: 150px; height: 150px; border-radius: 50%; display: block; margin: 0 auto 20px auto;';
+                aboutSection.parentNode.insertBefore(avatarImg, aboutSection);
+            }
+        }
+    }, 100); // 100ms delay
+});
+</script>
