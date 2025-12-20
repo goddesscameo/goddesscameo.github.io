@@ -1,9 +1,9 @@
 ---
-title: "The Problem of Africa in German Idealism and Anthroposophy's Treatment as a Response to Afro-Pessimism"
-description: "An appraisal of Africa in German Idealism and Anthroposophy"
+title: "The Problem of Africa in Hegel and Anthroposophy's Treatment as a Response to Afro-Pessimism"
+description: "An appraisal of Africa in the systems of Kant and Hegel"
 draft: false
 toc: true
-tags: ["Steiner", "Anthroposophy", "Philosophy", "Criticism"]
+tags: ["Steiner", "Anthroposophy", "Philosophy", "Criticism", "Hegel"]
 categories: ["Philosophy", "Anthroposophy"]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/1375_Atlas_Catalan_Abraham_Cresques.jpg/2560px-1375_Atlas_Catalan_Abraham_Cresques.jpg 
 ---
