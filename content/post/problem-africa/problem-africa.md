@@ -1,5 +1,5 @@
 ---
-title: "The Problem of Africa in Hegel and Anthroposophy's Treatment as a Response to Afro-Pessimism"
+title: "The Problem of Africa in German Idealism and Anthroposophy's Treatment as a Response to Afro-Pessimism"
 description: "An appraisal of Africa in the systems of Kant and Hegel"
 draft: false
 toc: true
