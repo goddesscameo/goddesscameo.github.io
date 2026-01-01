@@ -9,7 +9,7 @@ image: https://b1380751.smushcdn.com/1380751/wp-content/uploads/2017/01/Malcolm-
 ---
 
 > *"I think this is a prime example of the devil's chickens coming back home to roost. That the chickens that he sent out, the violence that he’s perpetuated...I think this same violence has come back to claim one of their own."* 
-> <br>—Malcolm X, in response to the assasination of JFK
+> <br>—Malcolm X, in response to the assassination of JFK
 
 The term “shithole country” has entered popular political lexicon due, none other, than to our commander in chief, Donald Trump. The phrase conjures images to mind of endemic corruption and violence, and signals a failure of institutions. The unsaid implication here is one of *inherent* inferiority, that there exists some kind of cultural rot which is native to the soil and to the people in question. As such, the response from the West is a mix of contempt, a doubling down on the abstract claim of determinate borders, and perhaps forms of patronizing charity (which at times are mechanisms used for ulterior motives). What you find missing from this series of responses, is a moment of self-reflection. There is a *refusal* to ask the fairly obvious question: what made these countries “shitholes” in the first place? The uncomfortable truth that our politics cannot admit, is that the disorder we project onto the world is a reflection, and a direct consequence, of a logic that has now completed its long arc and settled in our very homes. The poverty of the “Global South” and the spiritual poverty (soon to be financial, no doubt) of America are not separate crises. They are symptoms of the same problem. 
 
