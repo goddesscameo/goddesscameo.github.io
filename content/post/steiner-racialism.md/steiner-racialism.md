@@ -4,7 +4,7 @@ description: Against 'Steinerism'
 draft: false
 toc: true
 tags: ["Philosophy", "Criticism", "Politics"]
-categories: ["Philosophy"]
+categories: ["Anthroposophy"]
 image: https://live.staticflickr.com/1565/23715404209_9230d1588b_b.jpg
 ---
 
