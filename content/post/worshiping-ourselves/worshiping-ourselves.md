@@ -3,7 +3,7 @@ title: "Do we worship God or does God watch us worship ourselves?"
 description: "The hierarchies and our relationship with what we might call God."
 draft: false
 toc: true
-tags: ["Criticism", "Politics"]
+tags: ["Criticism", "Politics", "Religion"]
 categories: ["Anthroposophy"]
 image: https://upload.wikimedia.org/wikipedia/commons/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg
 ---
