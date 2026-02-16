@@ -68,7 +68,7 @@ However, a new problem emerges. Classical thought’s highest point, found in Ri
 *Capital* is wealth investing in its own expansion. In this process, labor is unified with the objective means of itself as a component of capital (self-expanding wealth, the form of value). Labor is then the process where capital produces itself. 
 
 
-![city](https://upload.wikimedia.org/wikipedia/en/8/8a/Fernand_L%C3%A9ger%2C_1919%2C_The_City_%28La_Ville%29%2C_oil_on_canvas%2C_231.1_x_298.4_cm%2C_Philadelphia_Museum_of_Art.jpg)
+![city](https://artnexus.com:5000/uploads/2022-12-05T00:52:59.444Z7.3.-Fernand-Leger.r0001234kin.jpg)
 > **Fernand Léger, *The City*.** 
 
 ## Adam Smith and David Ricardo
