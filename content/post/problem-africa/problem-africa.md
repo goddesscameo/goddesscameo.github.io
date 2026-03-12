@@ -5,7 +5,7 @@ draft: false
 toc: true
 tags: ["Steiner", "Anthroposophy", "Philosophy", "Criticism", "Hegel"]
 categories: ["Philosophy", "Anthroposophy"]
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/1375_Atlas_Catalan_Abraham_Cresques.jpg/2560px-1375_Atlas_Catalan_Abraham_Cresques.jpg 
+image: https://images.squarespace-cdn.com/content/v1/591d903de58c62e170279d72/1521412254204-4SSEZI29LCM9FLTZZOUB/catalan_atlas_464x326.jpg 
 ---
 
 ## Introduction
