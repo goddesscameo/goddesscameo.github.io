@@ -3,7 +3,7 @@ title: "Epistle to Polygenism"
 description: "Human biodiversity and its origins according to spiritual science."
 draft: false
 toc: true
-tags: ["Steiner", "Criticism", "Philosophy", "History", "Politics"]
+tags: ["Steiner", "Criticism", "Philosophy", "History", "Politics", "Evolution", "Nature"]
 categories: ["Philosophy", "Anthroposophy"]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tree_of_life_by_Haeckel.jpg/960px-Tree_of_life_by_Haeckel.jpg 
 ---
