@@ -6,8 +6,8 @@ toc: true
 tags: ["Steiner", "Criticism", "Politics", "Nature", "Evolution"]
 categories: ["Anthroposophy"]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/1280px-Laoco%C3%B6n_and_his_sons_group.jpg
-
 ---
+
 <br>**Note:** This is a first draft of this article, probably [not] to be updated in the future. As a result, some of the writing is not up to par, repetitive, unclear. For now, it is informative enough to post. 
 
 ## Intro
