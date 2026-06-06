@@ -41,7 +41,7 @@ A brief stint of my teenage years was spent reading, watching, and trying to par
 
 ## The Peaks and Valleys of German Idealism
 
-![The Stone Breakers, Gustave Courbet (1849)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gustave_Courbet_-_The_Stonebreakers_-_WGA05457.jpg/1200px-Gustave_Courbet_-_The_Stonebreakers_-_WGA05457.jpg)
+![The Stone Breakers, Gustave Courbet (1849)](https://upload.wikimedia.org/wikipedia/commons/4/46/Gustave_Courbet_-_The_Stonebreakers_-_WGA05457.jpg)
 > **Gustave Courbet, The Stone Breakers (1849)**
 <br>*The Stone Breakers* is here to represent the spiritual moment in physicality (depicting labor here, but not exclusive to it) before entering a philosophic system.
 
