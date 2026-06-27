@@ -1,5 +1,5 @@
 ---
-title: "Towards an Esoteric Christian Weltanschuung: On Comprehension and Forgiveness"
+title: "Towards an Esoteric Christian Weltanschauung: On Comprehension and Forgiveness"
 description: "The possible worldviews and their configurations."
 draft: false
 toc: true
